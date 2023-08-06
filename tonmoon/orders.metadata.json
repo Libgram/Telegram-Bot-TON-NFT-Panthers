@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"tonmoon.orders"},{"v":2,"key":{"createdAt":1},"name":"ca1","ns":"tonmoon.orders","background":true},{"v":2,"key":{"createdAt":-1},"name":"ca-1","ns":"tonmoon.orders","background":true}],"uuid":"9c3ddbb0aa9748fe9dd45ed727fdc7e5"}
