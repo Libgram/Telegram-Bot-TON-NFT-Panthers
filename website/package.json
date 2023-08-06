@@ -18,7 +18,7 @@
     "mime": "^3.0.0",
     "moment": "^2.29.1",
     "moment-timezone": "^0.5.33",
-    "mongoose": "^5.12.3",
+    "mongoose": "^5.13.20",
     "tonweb": "^0.0.38"
   }
 }
