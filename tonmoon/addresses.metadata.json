@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"tonmoon.addresses"},{"v":2,"unique":true,"key":{"address":1},"name":"address_1","ns":"tonmoon.addresses","background":true}],"uuid":"56cf9e5360084e8b971cac59d741ed53"}
