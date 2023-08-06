@@ -6,7 +6,7 @@
     "https-proxy-agent": "^5.0.0",
     "input": "^1.0.1",
     "ioredis": "^4.28.2",
-    "mongoose": "^6.1.2",
+    "mongoose": "^6.11.3",
     "node-cron": "^3.0.0",
     "telegram": "^2.1.0"
   }
