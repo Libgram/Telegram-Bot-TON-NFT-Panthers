@@ -16,7 +16,7 @@
     "koa": "^2.13.4",
     "koa-body": "^4.2.0",
     "moment": "^2.29.1",
-    "mongoose": "^6.1.4",
+    "mongoose": "^6.12.0",
     "safe-compare": "^1.1.4",
     "sharp": "^0.29.3",
     "svg-png-converter": "^0.0.9",
